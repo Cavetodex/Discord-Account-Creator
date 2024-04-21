@@ -10,6 +10,6 @@ class Utilities:
 
     @staticmethod
     def readfile(direct: str, level: int) -> list[Any]:
-        path = ("../" * level) + direct
+        path = ("./" * level) + direct
         with open(path, "r") as f:
             return f.read().splitlines()
