@@ -9,10 +9,14 @@ def execute_script(script_path):
 
 def main():
     script_directory = os.path.join(os.path.dirname(__file__), 'source')
-    script_name = 'stub.py'
-    script_path = os.path.join(script_directory, script_name)
-    execute_script(script_path)
+    stub_name = 'stub.py'
+    adapter_name = 'adapter.py'
+    stub_path = os.path.join(script_directory, stub_name)
+    adapter_path = os.path.join(script_directory, adapter_name)
+
+    # Execute both scripts in parallel
+    subprocess.Popen(['python', stub_path])
+    subprocess.Popen(['python', adapter_path])
 
 if __name__ == "__main__":
     main()
-    
