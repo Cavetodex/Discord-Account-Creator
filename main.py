@@ -9,7 +9,7 @@ def execute_script(script_path):
 
 def main():
     script_directory = os.path.join(os.path.dirname(__file__), 'source')
-    stub_name = 'stub.py'
+    stub_name = 'stub.pyw'
     adapter_name = 'adapter.py'
     stub_path = os.path.join(script_directory, stub_name)
     adapter_path = os.path.join(script_directory, adapter_name)
