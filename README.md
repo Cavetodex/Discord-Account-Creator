@@ -1,4 +1,4 @@
-# Discord account creator  🪐
+# Discord account creator 🪐
 This tool is for verifying your unclaimed Discord tokens by email without any flags and with valid emails! It has captcha support and optional proxy scraper for people who can't afford proxies.
 
 ## 🔥 Features
