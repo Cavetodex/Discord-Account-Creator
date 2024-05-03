@@ -15,7 +15,7 @@ This tool is for verifying your unclaimed Discord tokens by email without any fl
    
 2. Edit `config.json` with your custom settings
 
-3. Open `installer.bat` and enjoy!  :)
+3. Open `installer.bat` and enjoy! :)
 
 ## ⚠️ DISCLAIMER / NOTES
 This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
