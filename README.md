@@ -20,7 +20,7 @@ This tool is for verifying your unclaimed Discord tokens by email without any fl
 ## ⚠️ DISCLAIMER / NOTES
 This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
 
-## ✨ Issues / Doubts
+## ✨ Issues /  Doubts
 
 - If you have any questions do not hesitate to enter my discord: https://discord.gg/2Mqv9JYN
 - Or if you have any error do not forget to report it in: [issues](https://github.com/Salamon121/Discord-Account-Creator/issues/new)
