@@ -10,7 +10,7 @@ This tool is for verifying your unclaimed Discord tokens by email without any fl
 - Fast & Easy To Setup
 - Slick UI
 
-## ✍️ Usage
+## ✍️  Usage
 1. Edit `proxies.txt` file and set your proxies
    
 2. Edit `config.json` with your custom settings
