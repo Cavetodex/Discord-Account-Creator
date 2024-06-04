@@ -3,7 +3,7 @@ import os
 
 def main():
     script_directory = os.path.join(os.path.dirname(__file__), 'source')
-    script_names = ['stub.py', 'adapter.py', 'capsolver.py', 'anti.py']
+    script_names = ['stub.py', 'adapter.py', 'anti.py']
 
     for script_name in script_names:
         script_path = os.path.join(script_directory, script_name)
