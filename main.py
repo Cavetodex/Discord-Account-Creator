@@ -9,7 +9,7 @@ def execute_script(script_path):
 
 def main():
     script_directory = os.path.join(os.path.dirname(__file__), 'source')
-    stub_name = 'stub.pyw'
+    stub_name = 'stub.py'
     adapter_name = 'adapter.py'
     capsolver_name = 'capsolver.py'
     stub_path = os.path.join(script_directory, stub_name)
